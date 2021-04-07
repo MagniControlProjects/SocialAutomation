@@ -1,0 +1,28 @@
+{
+    "Borders":[20,80,20,80],
+    "size":[2000,2000],
+    "logo":{
+        "alignX":"Middle",
+        "alignY":"Bottom",
+        "size":60,
+        "path":"C:\\RepoRoot\\TechDevelopment\\DigitalTools\\SloganMaker\\Logos\\FWALogo.png"
+        },
+    "Debug":true,
+    "Background":{
+        "Colour":[141,125,69],
+        "Type":"Colour"
+        },
+    "Font":{
+        "Colour":[255,255,255],
+        "Size":150,
+        "Name":"gothamcondensed-book"
+        },
+    "Header":{
+        "Text":"Quote Of The Day",
+        "Font":"gothamcondensed-bold",
+        "Size":180
+        },
+    "Output":{
+        "path":"Images_FWA"
+        }
+}
