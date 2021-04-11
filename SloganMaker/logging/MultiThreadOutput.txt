@@ -1,0 +1,624 @@
+Starting Generation of Branded Images
+Running as Multi threaded entity.
+threadmaster Created
+ThreadMakerRunning
+Generating Image 0
+Generating Image 1
+Generating Image 2
+Generating Image 3
+Generating Image 4
+Generating Image 5
+Generating Image 6
+Generating Image 7
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\5_Johann Wolfgang von Goethe.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\1_Abraham Lincoln.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\0_Thomas Edison.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\6_Johann Wolfgang von Goethe.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\3_Abraham Lincoln.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\2_Abraham Lincoln.png
+
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\4_Johann Wolfgang von Goethe.png
+Starting Thread Delete 5Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\7_Johann Wolfgang von Goethe.png
+
+Generating Image 8
+Starting Thread Delete 1
+Generating Image 9Starting Thread Delete 3
+
+Starting Thread Delete 0
+Generating Image 10
+Generating Image 11
+Starting Thread Delete 6
+Generating Image 12
+Starting Thread Delete 2
+Generating Image 13
+Starting Thread Delete 4
+Generating Image 14
+Starting Thread Delete 7
+Generating Image 15
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\8_Johann Wolfgang von Goethe.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\9_Byron Pulsifer.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\10_Byron Pulsifer.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\11_Byron Pulsifer.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\13_Byron Pulsifer.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\14_Byron Pulsifer.png
+Starting Thread Delete 8
+Starting Thread Delete 10
+Generating Image 16
+Generating Image 17Starting Thread Delete 9
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\12_Byron Pulsifer.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\15_Byron Pulsifer.png
+Generating Image 18
+Starting Thread Delete 11
+Generating Image 19
+Starting Thread Delete 13
+Starting Thread Delete 12
+Generating Image 20
+Generating Image 21Starting Thread Delete 14
+
+Generating Image 22Starting Thread Delete 15
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\16_Lao Tzu.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\17_Lao Tzu.png
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\18_Lao Tzu.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\19_Lao Tzu.png
+Generating Image 23
+Starting Thread Delete 17
+Generating Image 24Starting Thread Delete 16
+
+Starting Thread Delete 18
+Generating Image 25
+Generating Image 26Starting Thread Delete 19
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\20_Aristotle.png
+Generating Image 27
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\22_Buddha.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\21_Aristotle.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\23_Buddha.png
+Starting Thread Delete 20
+Generating Image 28
+Starting Thread Delete 22
+Generating Image 29
+Starting Thread Delete 21
+Generating Image 30Starting Thread Delete 23
+
+Generating Image 31Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\24_Buddha.png
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\25_Buddha.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\26_Buddha.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\27_Buddha.png
+Starting Thread Delete 25
+Generating Image 32
+Starting Thread Delete 24
+Generating Image 33Starting Thread Delete 26
+
+Generating Image 34Starting Thread Delete 27
+
+Generating Image 35
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\28_Buddha.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\29_Buddha.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\30_Buddha.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\31_Buddha.png
+Starting Thread Delete 28
+Generating Image 36
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\32_Buddha.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\35_Buddha.png
+
+Starting Thread Delete 30
+Generating Image 37
+Starting Thread Delete 29
+Generating Image 38
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\33_Buddha.pngStarting Thread Delete 31
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\34_Buddha.png
+Generating Image 39
+Starting Thread Delete 32
+Generating Image 40
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\36_Buddha.png
+Starting Thread Delete 34
+Generating Image 41Starting Thread Delete 33
+
+Generating Image 42
+Starting Thread Delete 35
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\37_Buddha.png
+Generating Image 43
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\38_Buddha.png
+Starting Thread Delete 36
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\39_Buddha.png
+Generating Image 44Starting Thread Delete 37
+
+Generating Image 45
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\40_Buddha.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\41_Buddha.png
+Starting Thread Delete 38
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\42_Buddha.png
+Generating Image 46Starting Thread Delete 39
+
+Generating Image 47
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\43_Buddha.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\45_Wayne Dyer.png
+Starting Thread Delete 40
+Generating Image 48
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\44_Wayne Dyer.png
+Starting Thread Delete 42
+Generating Image 49
+Starting Thread Delete 41
+Generating Image 50
+Starting Thread Delete 43
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\46_Wayne Dyer.pngGenerating Image 51
+
+Starting Thread Delete 45
+Generating Image 52
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\47_Wayne Dyer.png
+Starting Thread Delete 44
+Starting Thread Delete 46
+Generating Image 53
+Generating Image 54
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\48_William Shakespeare.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\49_William Shakespeare.png
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\50_William Shakespeare.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\51_William Shakespeare.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\52_Publilius Syrus.png
+Starting Thread Delete 47
+Starting Thread Delete 48
+Generating Image 55
+Generating Image 56
+Starting Thread Delete 49
+Generating Image 57
+Starting Thread Delete 51
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\53_Napoleon Hill.png
+Generating Image 58
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\54_Napoleon Hill.png
+Starting Thread Delete 50
+Starting Thread Delete 52
+Generating Image 59
+Generating Image 60
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\56_Napoleon Hill.pngStarting Thread Delete 53
+
+Generating Image 61
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\55_Napoleon Hill.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\57_Donald Trump.png
+Starting Thread Delete 54
+Starting Thread Delete 56
+Generating Image 62
+Generating Image 63
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\58_Confucius.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\60_Confucius.png
+
+Starting Thread Delete 55
+Starting Thread Delete 57
+Generating Image 64
+Generating Image 65
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\59_Confucius.png
+Starting Thread Delete 58
+Generating Image 66
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\61_Confucius.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\63_Confucius.png
+Starting Thread Delete 60
+Generating Image 67
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\62_Confucius.png
+Starting Thread Delete 59
+Generating Image 68
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\64_Benjamin Franklin.png
+Starting Thread Delete 61
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\65_Albert Einstein.png
+Starting Thread Delete 63
+Generating Image 69
+Generating Image 70
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\66_Albert Einstein.png
+Starting Thread Delete 62
+Starting Thread Delete 65Generating Image 71
+
+Generating Image 72
+Starting Thread Delete 64
+Generating Image 73
+Starting Thread Delete 66
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\67_Albert Einstein.png
+Generating Image 74
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\70_Pearl Buck.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\69_Pearl Buck.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\68_Pearl Buck.png
+
+Starting Thread Delete 67
+Generating Image 75Starting Thread Delete 68
+
+Starting Thread Delete 70
+Generating Image 76
+Generating Image 77
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\71_Dalai Lama.png
+Starting Thread Delete 69
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\72_Dalai Lama.png
+Generating Image 78
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\73_Dalai Lama.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\74_Dalai Lama.png
+Starting Thread Delete 71
+Starting Thread Delete 72
+Generating Image 79
+Generating Image 80
+Starting Thread Delete 73
+Generating Image 81
+Starting Thread Delete 74
+Generating Image 82
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\75_Dalai Lama.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\77_Dalai Lama.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\76_Dalai Lama.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\78_Dalai Lama.png
+Starting Thread Delete 76
+Generating Image 83Starting Thread Delete 75
+
+Generating Image 84
+Starting Thread Delete 77
+Generating Image 85Starting Thread Delete 78
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\81_Dalai Lama.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\79_Dalai Lama.png
+
+Generating Image 86
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\80_Dalai Lama.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\82_Dalai Lama.png
+Starting Thread Delete 79
+Generating Image 87Starting Thread Delete 80
+
+Starting Thread Delete 81
+Generating Image 88
+Generating Image 89
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\84_Dalai Lama.png
+Starting Thread Delete 82
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\85_Dalai Lama.png
+Generating Image 90
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\86_John Lennon.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\83_Dalai Lama.png
+Starting Thread Delete 84
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\87_Ralph Emerson.png
+Generating Image 91
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\88_Ralph Emerson.png
+Starting Thread Delete 85
+Generating Image 92Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\89_Ralph Emerson.png
+
+Starting Thread Delete 86
+Generating Image 93
+Starting Thread Delete 87
+Generating Image 94
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\90_Ralph Emerson.png
+Starting Thread Delete 83
+Starting Thread Delete 88
+Generating Image 95
+Generating Image 96
+Starting Thread Delete 89
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\91_Ralph Emerson.png
+Generating Image 97
+Starting Thread Delete 90
+Generating Image 98
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\92_Ralph Emerson.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\94_Ralph Emerson.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\93_Ralph Emerson.pngStarting Thread Delete 91
+
+Generating Image 99
+Starting Thread Delete 94
+Generating Image 100
+Starting Thread Delete 92
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\95_Ralph Emerson.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\96_Ralph Emerson.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\97_Sophocles.png
+
+Generating Image 101
+Starting Thread Delete 93
+Generating Image 102
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\98_Winston Churchill.png
+Starting Thread Delete 97
+Generating Image 103Starting Thread Delete 95
+
+Starting Thread Delete 96
+Generating Image 104
+Generating Image 105
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\100_Eleanor Roosevelt.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\101_Richard Bach.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\99_Eleanor Roosevelt.png
+Starting Thread Delete 98
+Generating Image 106
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\102_Richard Bach.png
+Starting Thread Delete 100
+Generating Image 107
+Starting Thread Delete 99
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\103_Richard Bach.png
+Starting Thread Delete 101
+Generating Image 108
+Generating Image 109
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\105_Richard Bach.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\104_Richard Bach.png
+Starting Thread Delete 102
+Generating Image 110
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\106_Richard Bach.png
+Starting Thread Delete 103
+Generating Image 111Starting Thread Delete 104
+
+Starting Thread Delete 105
+Generating Image 112
+Generating Image 113
+Starting Thread Delete 106
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\107_Richard Bach.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\108_Richard Bach.png
+Generating Image 114
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\109_Richard Bach.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\110_Richard Bach.png
+Starting Thread Delete 108
+Generating Image 115
+Starting Thread Delete 110
+Generating Image 116
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\113_Napoleon Bonaparte.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\111_Seneca.png
+Starting Thread Delete 107
+Generating Image 117
+Starting Thread Delete 109
+Generating Image 118Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\112_Seneca.png
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\114_Thich Nhat Hanh.png
+Starting Thread Delete 111
+Generating Image 119
+Starting Thread Delete 113
+Generating Image 120
+Starting Thread Delete 112
+Generating Image 121
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\116_Thich Nhat Hanh.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\117_Thich Nhat Hanh.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\115_Thich Nhat Hanh.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\118_Albert Schweitzer.png
+Starting Thread Delete 114
+Generating Image 122
+Starting Thread Delete 116
+Generating Image 123
+Starting Thread Delete 117
+Generating Image 124
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\120_Carl Jung.png
+Starting Thread Delete 115
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\119_Albert Schweitzer.png
+Generating Image 125
+Starting Thread Delete 118
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\121_Carl Jung.png
+Generating Image 126
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\122_Carl Jung.png
+Starting Thread Delete 120
+Generating Image 127Starting Thread Delete 119
+
+Generating Image 128Starting Thread Delete 121
+
+Generating Image 129
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\123_Carl Jung.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\125_Anais Nin.png
+Starting Thread Delete 122
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\126_Tony Robbins.png
+Generating Image 130
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\124_Elizabeth Browning.png
+Starting Thread Delete 125
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\129_Oscar Wilde.png
+Generating Image 131Starting Thread Delete 123
+
+Starting Thread Delete 126
+Generating Image 132
+Generating Image 133
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\127_Tony Robbins.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\128_Tony Robbins.png
+
+Starting Thread Delete 124
+Generating Image 134Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\130_Marcus Aurelius.png
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\131_Marcus Aurelius.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\132_Marcus Aurelius.png
+
+Starting Thread Delete 129
+Starting Thread Delete 128
+Generating Image 135Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\133_Marcus Aurelius.png
+
+Generating Image 136
+Starting Thread Delete 127
+Generating Image 137
+Starting Thread Delete 130
+Generating Image 138
+Starting Thread Delete 133
+Starting Thread Delete 131
+Generating Image 139
+Starting Thread Delete 132
+Generating Image 140
+Generating Image 141
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\134_Epictetus.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\136_Epictetus.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\135_Epictetus.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\137_Epictetus.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\138_Epictetus.png
+Starting Thread Delete 134
+Generating Image 142
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\141_Ralph Waldo Emerson.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\139_Plutarch.png
+Starting Thread Delete 136
+Generating Image 143
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\140_Ralph Waldo Emerson.png
+Starting Thread Delete 135
+Generating Image 144
+Starting Thread Delete 137
+Generating Image 145
+Starting Thread Delete 138
+Generating Image 146
+Starting Thread Delete 141
+Generating Image 147
+Starting Thread Delete 140
+Starting Thread Delete 139
+Generating Image 148
+Generating Image 149
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\142_Elbert Hubbard.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\145_Helen Keller.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\143_Elbert Hubbard.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\144_Albert Camus.png
+Starting Thread Delete 142
+Generating Image 150
+Starting Thread Delete 143
+Starting Thread Delete 145
+Generating Image 151
+Generating Image 152
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\149_Oprah Winfrey.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\147_Helen Keller.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\146_Helen Keller.png
+Starting Thread Delete 144
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\148_Helen Keller.png
+Generating Image 153
+Starting Thread Delete 147
+Generating Image 154Starting Thread Delete 146
+
+Generating Image 155Starting Thread Delete 149
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\150_Oprah Winfrey.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\151_Oprah Winfrey.png
+Generating Image 156
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\152_Anatole France.png
+Starting Thread Delete 148
+Generating Image 157
+Starting Thread Delete 150
+Starting Thread Delete 151
+Generating Image 158
+Generating Image 159
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\153_Anatole France.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\154_Plato.png
+Starting Thread Delete 152
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\155_Benjamin Disraeli.png
+Generating Image 160
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\156_Benjamin Disraeli.png
+Starting Thread Delete 153
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\157_Benjamin Disraeli.png
+Starting Thread Delete 154
+Generating Image 161
+Starting Thread Delete 155
+Generating Image 162
+Generating Image 163
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\158_Benjamin Disraeli.png
+Starting Thread Delete 156
+Generating Image 164Starting Thread Delete 157
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\159_Benjamin Disraeli.png
+Generating Image 165
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\160_Benjamin Disraeli.png
+Starting Thread Delete 158
+Generating Image 166
+Starting Thread Delete 159
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\161_Benjamin Disraeli.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\163_Og Mandino.png
+
+Generating Image 167
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\162_Og Mandino.png
+Starting Thread Delete 160
+Starting Thread Delete 161
+Generating Image 168
+Generating Image 169
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\165_Mark Twain.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\164_Kahlil Gibran.png
+Starting Thread Delete 163
+Generating Image 170
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\166_Mark Twain.png
+Starting Thread Delete 162
+Generating Image 171
+Starting Thread Delete 165
+Starting Thread Delete 164
+Generating Image 172
+Generating Image 173
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\167_Bruce Lee.png
+Starting Thread Delete 166
+Generating Image 174
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\169_Bruce Lee.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\168_Bruce Lee.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\170_Bruce Lee.png
+Starting Thread Delete 169
+Generating Image 175Starting Thread Delete 167
+
+Generating Image 176
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\171_Eckhart Tolle.png
+Starting Thread Delete 168
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\173_Robert Stevenson.png
+Generating Image 177Starting Thread Delete 170
+
+Generating Image 178
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\174_Pema Chodron.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\172_Eckhart Tolle.png
+Starting Thread Delete 171
+Starting Thread Delete 173
+Generating Image 179
+Generating Image 180
+Starting Thread Delete 174
+Generating Image 181
+Starting Thread Delete 172
+Generating Image 182
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\175_Franklin Roosevelt.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\177_Antoine de Saint-Exupery.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\176_John Ruskin.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\178_Jane Addams.png
+Starting Thread Delete 175
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\180_Rumi.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\179_Thomas Carlyle.png
+Generating Image 183
+Starting Thread Delete 176
+Starting Thread Delete 177
+Generating Image 184
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\182_Oliver Holmes.pngGenerating Image 185
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\181_Rumi.png
+Starting Thread Delete 178
+Generating Image 186
+Starting Thread Delete 180
+Generating Image 187
+Starting Thread Delete 181
+Generating Image 188
+Starting Thread Delete 179
+Generating Image 189
+Starting Thread Delete 182
+Generating Image 190
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\183_Anne Frank.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\186_Mother Teresa.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\184_Mother Teresa.png
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\185_Mother Teresa.png
+Starting Thread Delete 186
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\187_Mother Teresa.png
+Starting Thread Delete 184
+Generating Image 191
+Starting Thread Delete 185
+Generating Image 192
+Generating Image 193Starting Thread Delete 183
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\188_Georg Lichtenberg.png
+
+Generating Image 194
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\190_Denis Waitley.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\189_Lucille Ball.png
+Starting Thread Delete 187
+Generating Image 195
+Starting Thread Delete 188
+Generating Image 196
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\193_Daisaku Ikeda.png
+Starting Thread Delete 189
+Generating Image 197Starting Thread Delete 190
+
+Generating Image 198
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\191_Catherine Pulsifer.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\192_Daisaku Ikeda.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\194_Daisaku Ikeda.png
+
+Starting Thread Delete 193
+Generating Image 199
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\195_Frank Tyger.png
+Starting Thread Delete 191
+Starting Thread Delete 192
+Generating Image 200
+Generating Image 201
+Starting Thread Delete 194
+Generating Image 202
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\198_Doris Mortman.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\197_Dhammapada.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\196_Joseph Campbell.png
+Starting Thread Delete 195
+Generating Image 203
+Starting Thread Delete 197
+Starting Thread Delete 198
+Generating Image 204
+Generating Image 205
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\202_Zig Ziglar.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\199_Mohandas Gandhi.png
+
+Starting Thread Delete 196
+Generating Image 206Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\201_Dale Carnegie.png
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\200_Tenzin Gyatso.png
+Starting Thread Delete 201
+Starting Thread Delete 202
+Generating Image 207
+Total Image creation of 209 images complete in 0:00:38.594512
+Generating Image 208
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\205_Robert Schuller.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\203_Ralph Marston.pngWriting File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\204_Jean Lacordaire.png
+
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\206_Lama Yeshe.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\208_Arnold Schwarzenegger.png
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Images_template\207_Arnold Schwarzenegger.png

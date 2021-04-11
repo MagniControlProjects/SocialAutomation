@@ -1,0 +1,636 @@
+Starting Generation of Branded Images
+Running as Single Threaded entity.
+Attempting to open configuration file at 'C:\RepoRoot\TechDevelopment\SocialAutomation\SloganMaker\Configurations\imageConfiguration.json'
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\0_Many of life's failures are people who did not realize how close they were to success when they gave up.png
+ImageCreation Completed in 0:00:00.304824
+0:00:00.304824
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\1_Important principles may, and must, be inflexible.png
+ImageCreation Completed in 0:00:00.237880
+0:00:00.237880
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\2_Always bear in mind that your own resolution to succeed is more important than any one thing.png
+ImageCreation Completed in 0:00:00.289832
+0:00:00.289832
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\3_Truth is generally the best vindication against slander.png
+ImageCreation Completed in 0:00:00.247994
+0:00:00.247994
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\4_Great talent finds happiness in execution.png
+ImageCreation Completed in 0:00:00.247845
+0:00:00.247845
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\5_A really great talent finds its happiness in execution.png
+ImageCreation Completed in 0:00:00.258854
+0:00:00.258854
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\6_The person born with a talent they are meant to use will find their greatest happiness in using it.png
+ImageCreation Completed in 0:00:00.297826
+0:00:00.297826
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\7_Kindness is the golden chain by which society is bound together.png
+ImageCreation Completed in 0:00:00.295817
+0:00:00.295817
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\8_Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.png
+ImageCreation Completed in 0:00:00.322816
+0:00:00.322816
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\9_The best teacher is experience learned from failures.png
+ImageCreation Completed in 0:00:00.247876
+0:00:00.247876
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\10_To give hope to someone occurs when you teach them how to use the tools to do it for themselves.png
+ImageCreation Completed in 0:00:00.285833
+0:00:00.285833
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\11_Fear of failure is one attitude that will keep you at the same point in your life.png
+ImageCreation Completed in 0:00:00.265845
+0:00:00.265845
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\12_Adversity isn't set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.png
+ImageCreation Completed in 0:00:00.321802
+0:00:00.321802
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\13_Truth isn't all about what actually happens but more about how what has happened is interpreted.png
+ImageCreation Completed in 0:00:00.295844
+0:00:00.295844
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\14_It can't be spring if your heart is filled with past failures.png
+ImageCreation Completed in 0:00:00.296814
+0:00:00.296814
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\15_To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.png
+ImageCreation Completed in 0:00:00.280840
+0:00:00.280840
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\16_To lead people walk behind them.png
+ImageCreation Completed in 0:00:00.232885
+0:00:00.232885
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\17_Doing nothing is better than being busy doing nothing.png
+ImageCreation Completed in 0:00:00.251839
+0:00:00.251839
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\18_Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love.png
+ImageCreation Completed in 0:00:00.284849
+0:00:00.284849
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\19_Music in the soul can be heard by the universe.png
+ImageCreation Completed in 0:00:00.248860
+0:00:00.248860
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\20_Happiness depends upon ourselves.png
+ImageCreation Completed in 0:00:00.227867
+0:00:00.227867
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\21_If one way be better than another, that you may be sure is natures way.png
+ImageCreation Completed in 0:00:00.252859
+0:00:00.252859
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\22_Those who are free of resentful thoughts surely find peace.png
+ImageCreation Completed in 0:00:00.249837
+0:00:00.249837
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\23_It is better to travel well than to arrive.png
+ImageCreation Completed in 0:00:00.230888
+0:00:00.230888
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\24_Happiness comes when your work and words are of benefit to yourself and others.png
+ImageCreation Completed in 0:00:00.264843
+0:00:00.264843
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\25_Three things cannot be long hidden: the sun, the moon, and the truth.png
+ImageCreation Completed in 0:00:00.251842
+0:00:00.251842
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\26_You, yourself, as much as anybody in the entire universe, deserve your love and affection.png
+ImageCreation Completed in 0:00:00.275855
+0:00:00.275855
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\27_You will not be punished for your anger, you will be punished by your anger.png
+ImageCreation Completed in 0:00:00.291819
+0:00:00.291819
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\28_In a controversy the instant we feel anger we have already ceased striving for the truth, and have begun striving for ourselves.png
+ImageCreation Completed in 0:00:00.297830
+0:00:00.297830
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\29_Do not overrate what you have received, nor envy others. He who envies others does not obtain peace of mind.png
+ImageCreation Completed in 0:00:00.290851
+0:00:00.290851
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\30_To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.png
+ImageCreation Completed in 0:00:00.286817
+0:00:00.286817
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\31_There are only two mistakes one can make along the road to truth; not going all the way, and not starting.png
+ImageCreation Completed in 0:00:00.295829
+0:00:00.295829
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\32_Your work is to discover your world and then with all your heart give yourself to it.png
+ImageCreation Completed in 0:00:00.269858
+0:00:00.269858
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\33_Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.png
+ImageCreation Completed in 0:00:00.314808
+0:00:00.314808
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\34_Thousands of candles can be lit from a single, and the life of the candle will not be shortened. Happiness never decreases by being shared.png
+ImageCreation Completed in 0:00:00.314833
+0:00:00.314833
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\35_Better than a thousand hollow words, is one word that brings peace.png
+ImageCreation Completed in 0:00:00.247858
+0:00:00.247858
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\36_Every human being is the author of his own health or disease.png
+ImageCreation Completed in 0:00:00.247844
+0:00:00.247844
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\37_Your work is to discover your work and then with all your heart to give yourself to it.png
+ImageCreation Completed in 0:00:00.262863
+0:00:00.262863
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\38_Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.png
+ImageCreation Completed in 0:00:00.295830
+0:00:00.295830
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\39_The only real failure in life is not to be true to the best one knows.png
+ImageCreation Completed in 0:00:00.255839
+0:00:00.255839
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\40_However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?.png
+failed to save canvas Image\40_However many holy words you read, However many you speak, What good will they do you If you do not act on upon them?.png
+ImageCreation Completed in 0:00:00.113950
+0:00:00.113950
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\41_Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.png
+ImageCreation Completed in 0:00:00.369788
+0:00:00.369788
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\42_However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?.png
+failed to save canvas Image\42_However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?.png
+ImageCreation Completed in 0:00:00.111922
+0:00:00.111922
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\43_Better than a thousand hollow words is one word that brings peace.png
+ImageCreation Completed in 0:00:00.309822
+0:00:00.309822
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\44_Real magic in relationships means an absence of judgement of others.png
+ImageCreation Completed in 0:00:00.256853
+0:00:00.256853
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\45_Doing what you love is the cornerstone of having abundance in your life.png
+ImageCreation Completed in 0:00:00.258864
+0:00:00.258864
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\46_When you judge another, you do not define them, you define yourself.png
+ImageCreation Completed in 0:00:00.256857
+0:00:00.256857
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\47_Simply put, you believer that things or people make you unhappy, but this is not accurate. You make yourself unhappy.png
+ImageCreation Completed in 0:00:00.287817
+0:00:00.287817
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\48_Love all, trust a few, do wrong to none.png
+ImageCreation Completed in 0:00:00.240863
+0:00:00.240863
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\49_Speak low, if you speak love.png
+ImageCreation Completed in 0:00:00.232879
+0:00:00.232879
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\50_How far that little candle throws its beams! So shines a good deed in a naughty world.png
+ImageCreation Completed in 0:00:00.269845
+0:00:00.269845
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\51_God has given you one face, and you make yourself another.png
+ImageCreation Completed in 0:00:00.259837
+0:00:00.259837
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\52_Better be ignorant of a matter than half know it.png
+ImageCreation Completed in 0:00:00.251870
+0:00:00.251870
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\53_Happiness is found in doing, not merely possessing.png
+ImageCreation Completed in 0:00:00.241861
+0:00:00.241861
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\54_Most great people have attained their greatest success just one step beyond their greatest failure.png
+ImageCreation Completed in 0:00:00.272829
+0:00:00.272829
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\55_No man can succeed in a line of endeavor which he does not like.png
+ImageCreation Completed in 0:00:00.272858
+0:00:00.272858
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\56_You might well remember that nothing can bring you success but yourself.png
+ImageCreation Completed in 0:00:00.255853
+0:00:00.255853
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\57_Sometimes by losing a battle you find a new way to win the war.png
+ImageCreation Completed in 0:00:00.250856
+0:00:00.250856
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\58_The more you know yourself, the more you forgive yourself.png
+ImageCreation Completed in 0:00:00.250856
+0:00:00.250856
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\59_When you see a man of worth, think of how you may emulate him. When you see one who is unworthy, examine yourself.png
+ImageCreation Completed in 0:00:00.292833
+0:00:00.292833
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\60_They must often change, who would be constant in happiness or wisdom.png
+ImageCreation Completed in 0:00:00.251842
+0:00:00.251842
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\61_When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points.png
+ImageCreation Completed in 0:00:00.294831
+0:00:00.294831
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\62_When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.png
+ImageCreation Completed in 0:00:00.329829
+0:00:00.329829
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\63_He who wishes to secure the good of others, has already secured his own.png
+ImageCreation Completed in 0:00:00.251856
+0:00:00.251856
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\64_There never was a good knife made of bad steel.png
+ImageCreation Completed in 0:00:00.257875
+0:00:00.257875
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\65_Learn from yesterday, live for today, hope for tomorrow.png
+ImageCreation Completed in 0:00:00.244845
+0:00:00.244845
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\66_Peace cannot be kept by force. It can only be achieved by understanding.png
+ImageCreation Completed in 0:00:00.263863
+0:00:00.263863
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\67_Anyone who doesn't take truth seriously in small matters cannot be trusted in large ones either.png
+ImageCreation Completed in 0:00:00.274830
+0:00:00.274830
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\68_Growth itself contains the germ of happiness.png
+ImageCreation Completed in 0:00:00.231879
+0:00:00.231879
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\69_You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.png
+ImageCreation Completed in 0:00:00.294831
+0:00:00.294831
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\70_The truth is always exciting. Speak it, then. Life is dull without it.png
+ImageCreation Completed in 0:00:00.248843
+0:00:00.248843
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\71_Love and compassion open our own inner life, reducing stress, distrust and loneliness.png
+ImageCreation Completed in 0:00:00.259866
+0:00:00.259866
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\72_More often than not, anger is actually an indication of weakness rather than of strength.png
+ImageCreation Completed in 0:00:00.264834
+0:00:00.264834
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\73_If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.png
+ImageCreation Completed in 0:00:00.278854
+0:00:00.278854
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\74_Genuine love should first be directed at oneself. if we do not love ourselves, how can we love others?.png
+failed to save canvas Image\74_Genuine love should first be directed at oneself. if we do not love ourselves, how can we love others?.png
+ImageCreation Completed in 0:00:00.099943
+0:00:00.099943
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\75_With the realization of ones own potential and self-confidence in ones ability, one can build a better world.png
+ImageCreation Completed in 0:00:00.278845
+0:00:00.278845
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\76_I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.png
+ImageCreation Completed in 0:00:00.273847
+0:00:00.273847
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\77_People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.png
+ImageCreation Completed in 0:00:00.324805
+0:00:00.324805
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\78_With realization of ones own potential and self-confidence in ones ability, one can build a better world.png
+ImageCreation Completed in 0:00:00.296815
+0:00:00.296815
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\79_Happiness is not something ready made. It comes from your own actions.png
+ImageCreation Completed in 0:00:00.294831
+0:00:00.294831
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\80_Genuine love should first be directed at oneself, if we do not love ourselves, how can we love others?.png
+failed to save canvas Image\80_Genuine love should first be directed at oneself, if we do not love ourselves, how can we love others?.png
+ImageCreation Completed in 0:00:00.114934
+0:00:00.114934
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\81_Consider that not only do negative thoughts and emotions destroy our experience of peace, they also undermine our health.png
+ImageCreation Completed in 0:00:00.317833
+0:00:00.317833
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\82_Happiness mainly comes from our own attitude, rather than from external factors.png
+ImageCreation Completed in 0:00:00.258851
+0:00:00.258851
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\83_It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.png
+ImageCreation Completed in 0:00:00.337811
+0:00:00.337811
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\84_Compassion and happiness are not a sign of weakness but a sign of strength.png
+ImageCreation Completed in 0:00:00.269825
+0:00:00.269825
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\85_Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.png
+ImageCreation Completed in 0:00:00.283852
+0:00:00.283852
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\86_You may say Im a dreamer, but Im not the only one, I hope someday you will join us, and the world will live as one.png
+ImageCreation Completed in 0:00:00.286823
+0:00:00.286823
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\87_Good luck is another name for tenacity of purpose.png
+ImageCreation Completed in 0:00:00.252853
+0:00:00.252853
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\88_Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.png
+ImageCreation Completed in 0:00:00.272858
+0:00:00.272858
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\89_Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.png
+ImageCreation Completed in 0:00:00.330797
+0:00:00.330797
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\90_Build a better mousetrap and the world will beat a path to your door.png
+ImageCreation Completed in 0:00:00.308838
+0:00:00.308838
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\91_Truth, and goodness, and beauty are but different faces of the same all.png
+ImageCreation Completed in 0:00:00.259835
+0:00:00.259835
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\92_Make the most of yourself for that is all there is of you.png
+ImageCreation Completed in 0:00:00.253869
+0:00:00.253869
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\93_We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.png
+ImageCreation Completed in 0:00:00.288834
+0:00:00.288834
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\94_Good thoughts are no better than good dreams, unless they be executed.png
+ImageCreation Completed in 0:00:00.253842
+0:00:00.253842
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\95_So is cheerfulness, or a good temper, the more it is spent, the more remains.png
+ImageCreation Completed in 0:00:00.264846
+0:00:00.264846
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\96_Bad times have a scientific value. These are occasions a good learner would not miss.png
+ImageCreation Completed in 0:00:00.264850
+0:00:00.264850
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\97_Ignorant men don't know what good they hold in their hands until they've flung it away.png
+ImageCreation Completed in 0:00:00.266860
+0:00:00.266860
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\98_Before you can inspire with emotion, you must be swamped with it yourself. Before you can move their tears, your own must flow. To convince them, you must yourself believe.png
+ImageCreation Completed in 0:00:00.332796
+0:00:00.332796
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\99_The future belongs to those who believe in the beauty of their dreams.png
+ImageCreation Completed in 0:00:00.272843
+0:00:00.272843
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\100_It is not fair to ask of others what you are unwilling to do yourself.png
+ImageCreation Completed in 0:00:00.281871
+0:00:00.281871
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\101_In order to win, you must expect to win.png
+ImageCreation Completed in 0:00:00.234864
+0:00:00.234864
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\102_Strong beliefs win strong men, and then make them stronger.png
+ImageCreation Completed in 0:00:00.251841
+0:00:00.251841
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\103_Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years.png
+ImageCreation Completed in 0:00:00.287834
+0:00:00.287834
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\104_If you love someone, set them free. If they come back they're yours; if they don't they never were.png
+ImageCreation Completed in 0:00:00.355811
+0:00:00.355811
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\105_Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!.png
+ImageCreation Completed in 0:00:00.285836
+0:00:00.285836
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\106_Sooner or later, those who win are those who think they can.png
+ImageCreation Completed in 0:00:00.246845
+0:00:00.246845
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\107_Happiness is the reward we get for living to the highest right we know.png
+ImageCreation Completed in 0:00:00.255866
+0:00:00.255866
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\108_Every gift from a friend is a wish for your happiness.png
+ImageCreation Completed in 0:00:00.239864
+0:00:00.239864
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\109_Ask yourself the secret of your success. Listen to your answer, and practice it.png
+ImageCreation Completed in 0:00:00.262834
+0:00:00.262834
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\110_Allow the world to live as it chooses, and allow yourself to live as you choose.png
+ImageCreation Completed in 0:00:00.264848
+0:00:00.264848
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\111_The greatest remedy for anger is delay.png
+ImageCreation Completed in 0:00:00.234880
+0:00:00.234880
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\112_If one does not know to which port is sailing, no wind is favorable.png
+ImageCreation Completed in 0:00:00.251855
+0:00:00.251855
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\113_If you want a thing done well, do it yourself.png
+ImageCreation Completed in 0:00:00.273843
+0:00:00.273843
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\114_There is no way to happiness, happiness is the way.png
+ImageCreation Completed in 0:00:00.245860
+0:00:00.245860
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\115_To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself.png
+ImageCreation Completed in 0:00:00.282824
+0:00:00.282824
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\116_By living deeply in the present moment we can understand the past better and we can prepare for a better future.png
+ImageCreation Completed in 0:00:00.284850
+0:00:00.284850
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\117_The amount of happiness that you have depends on the amount of freedom you have in your heart.png
+ImageCreation Completed in 0:00:00.282824
+0:00:00.282824
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\118_Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.png
+ImageCreation Completed in 0:00:00.294831
+0:00:00.294831
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\119_Never say there is nothing beautiful in the world any more. There is always something to make you wonder in the shape of a tree, the trembling of a leaf.png
+ImageCreation Completed in 0:00:00.337832
+0:00:00.337832
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\120_Everything that irritates us about others can lead us to an understanding about ourselves.png
+ImageCreation Completed in 0:00:00.284817
+0:00:00.284817
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\121_Everything that irritates us about others can lead us to an understanding of ourselves.png
+ImageCreation Completed in 0:00:00.270853
+0:00:00.270853
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\122_Knowledge rests not upon truth alone, but upon error also.png
+ImageCreation Completed in 0:00:00.246857
+0:00:00.246857
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\123_Everything that irritates us about others can lead us to a better understanding of ourselves.png
+ImageCreation Completed in 0:00:00.267849
+0:00:00.267849
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\124_Love doesn't make the world go round, love is what makes the ride worthwhile.png
+ImageCreation Completed in 0:00:00.266830
+0:00:00.266830
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\125_The personal life deeply lived always expands into truths beyond itself.png
+ImageCreation Completed in 0:00:00.255868
+0:00:00.255868
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\126_Successful people ask better questions, and as a result, they get better answers.png
+ImageCreation Completed in 0:00:00.261855
+0:00:00.261855
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\127_You always succeed in producing a result.png
+ImageCreation Completed in 0:00:00.231847
+0:00:00.231847
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\128_People are not lazy. They simply have impotent goals, that is, goals that do not inspire them.png
+ImageCreation Completed in 0:00:00.270868
+0:00:00.270868
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\129_The only thing to do with good advice is to pass it on. It is never of any use to oneself.png
+ImageCreation Completed in 0:00:00.267839
+0:00:00.267839
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\130_When you arise in the morning, think of what a precious privilege it is to be alive, to breathe, to think, to enjoy, to love.png
+ImageCreation Completed in 0:00:00.292836
+0:00:00.292836
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\131_Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart.png
+ImageCreation Completed in 0:00:00.301827
+0:00:00.301827
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\132_Waste no more time arguing about what a good man should be. Be one.png
+ImageCreation Completed in 0:00:00.256850
+0:00:00.256850
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\133_Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.png
+ImageCreation Completed in 0:00:00.274857
+0:00:00.274857
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\134_There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.png
+ImageCreation Completed in 0:00:00.286836
+0:00:00.286836
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\135_If you seek truth you will not seek victory by dishonourable means, and if you find truth you will become invincible.png
+ImageCreation Completed in 0:00:00.287827
+0:00:00.287827
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\136_When you are offended at any man's fault, turn to yourself and study your own failings. Then you will forget your anger.png
+ImageCreation Completed in 0:00:00.286848
+0:00:00.286848
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\137_Know, first, who you are, and then adorn yourself accordingly.png
+ImageCreation Completed in 0:00:00.267334
+0:00:00.267334
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\138_First say to yourself what you would be; and then do what you have to do.png
+ImageCreation Completed in 0:00:00.271849
+0:00:00.271849
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\139_To make no mistakes is not in the power of man; but from their errors and mistakes the wise and good learn wisdom for the future.png
+ImageCreation Completed in 0:00:00.314799
+0:00:00.314799
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\140_Happiness is a perfume you cannot pour on others without getting a few drops on yourself.png
+ImageCreation Completed in 0:00:00.292835
+0:00:00.292835
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\141_Imagination is not a talent of some men but is the health of every man.png
+ImageCreation Completed in 0:00:00.259863
+0:00:00.259863
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\142_A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.png
+ImageCreation Completed in 0:00:00.297836
+0:00:00.297836
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\143_A failure is a man who has blundered but is not capable of cashing in on the experience.png
+ImageCreation Completed in 0:00:00.270838
+0:00:00.270838
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\144_You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.png
+ImageCreation Completed in 0:00:00.316804
+0:00:00.316804
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\145_The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.png
+ImageCreation Completed in 0:00:00.275842
+0:00:00.275842
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\146_Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.png
+ImageCreation Completed in 0:00:00.350813
+0:00:00.350813
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\147_The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.png
+ImageCreation Completed in 0:00:00.299220
+0:00:00.299220
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\148_When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.png
+ImageCreation Completed in 0:00:00.318797
+0:00:00.318797
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\149_I don't believe in failure. It is not failure if you enjoyed the process.png
+ImageCreation Completed in 0:00:00.263850
+0:00:00.263850
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\150_I don't believe in failure. It's not failure if you enjoyed the process.png
+ImageCreation Completed in 0:00:00.262863
+0:00:00.262863
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\151_Don't settle for a relationship that won't let you be yourself.png
+ImageCreation Completed in 0:00:00.342898
+0:00:00.342898
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\152_It is better to understand a little than to misunderstand a lot.png
+ImageCreation Completed in 0:00:00.256870
+0:00:00.256870
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\153_You learn to speak by speaking, to study by studying, to run by running, to work by working; in just the same way, you learn to love by loving.png
+ImageCreation Completed in 0:00:00.341802
+0:00:00.341802
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\154_Good actions give strength to ourselves and inspire good actions in others.png
+ImageCreation Completed in 0:00:00.260852
+0:00:00.260852
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\155_Action may not always bring happiness; but there is no happiness without action.png
+ImageCreation Completed in 0:00:00.265862
+0:00:00.265862
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\156_Through perseverance many people win success out of what seemed destined to be certain failure.png
+ImageCreation Completed in 0:00:00.289820
+0:00:00.289820
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\157_Never apologize for showing feelings. When you do so, you apologize for the truth.png
+ImageCreation Completed in 0:00:00.293845
+0:00:00.293845
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\158_The greatest good you can do for another is not just to share your riches but to reveal to him his own.png
+ImageCreation Completed in 0:00:00.304825
+0:00:00.304825
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\159_The greatest good you can do for another is not just share your riches, but reveal to them their own.png
+ImageCreation Completed in 0:00:00.278826
+0:00:00.278826
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\160_Action may not always bring happiness, but there is no happiness without action.png
+ImageCreation Completed in 0:00:00.280852
+0:00:00.280852
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\161_Never apologize for showing feeling. When you do so, you apologize for truth.png
+ImageCreation Completed in 0:00:00.269831
+0:00:00.269831
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\162_I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.png
+ImageCreation Completed in 0:00:00.306840
+0:00:00.306840
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\163_Failure will never overtake me if my determination to succeed is strong enough.png
+ImageCreation Completed in 0:00:00.265851
+0:00:00.265851
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\164_Beauty is not in the face; beauty is a light in the heart.png
+ImageCreation Completed in 0:00:00.255848
+0:00:00.255848
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\165_Happiness is a Swedish sunset, it is there for all, but most of us look the other way and lose it.png
+ImageCreation Completed in 0:00:00.307811
+0:00:00.307811
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\166_When in doubt, tell the truth.png
+ImageCreation Completed in 0:00:00.222885
+0:00:00.222885
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\167_Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.png
+ImageCreation Completed in 0:00:00.289821
+0:00:00.289821
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\168_Take no thought of who is right or wrong or who is better than. Be not for or against.png
+ImageCreation Completed in 0:00:00.275855
+0:00:00.275855
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\169_If you love life, don't waste time, for time is what life is made up of.png
+ImageCreation Completed in 0:00:00.262854
+0:00:00.262854
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\170_All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.png
+ImageCreation Completed in 0:00:00.282821
+0:00:00.282821
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\171_You cannot find yourself by going into the past. You can find yourself by coming into the present.png
+ImageCreation Completed in 0:00:00.279852
+0:00:00.279852
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\172_You do not become good by trying to be good, but by finding the goodness that is already within you.png
+ImageCreation Completed in 0:00:00.290819
+0:00:00.290819
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\173_Don't judge each day by the harvest you reap but by the seeds that you plant.png
+ImageCreation Completed in 0:00:00.263848
+0:00:00.263848
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\174_If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher.png
+ImageCreation Completed in 0:00:00.289833
+0:00:00.289833
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\175_Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.png
+ImageCreation Completed in 0:00:00.288850
+0:00:00.288850
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\176_Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating; there is really no such thing as bad weather, only different kinds of good weather.png
+ImageCreation Completed in 0:00:00.330809
+0:00:00.330809
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\177_Love does not consist of gazing at each other, but in looking together in the same direction.png
+ImageCreation Completed in 0:00:00.280839
+0:00:00.280839
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\178_Nothing could be worse than the fear that one had given up too soon, and left one unexpended effort that might have saved the world.png
+ImageCreation Completed in 0:00:00.324801
+0:00:00.324801
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\179_Do not be embarrassed by your mistakes. Nothing can teach us better than our understanding of them. This is one of the best ways of self-education.png
+ImageCreation Completed in 0:00:00.345816
+0:00:00.345816
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\180_Let the beauty of what you love be what you do.png
+ImageCreation Completed in 0:00:00.237863
+0:00:00.237863
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\181_Let yourself be silently drawn by the stronger pull of what you really love.png
+ImageCreation Completed in 0:00:00.261857
+0:00:00.261857
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\182_Love is the master key that opens the gates of happiness.png
+ImageCreation Completed in 0:00:00.251870
+0:00:00.251870
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\183_Parents can only give good advice or put them on the right paths, but the final forming of a persons character lies in their own hands.png
+ImageCreation Completed in 0:00:00.316803
+0:00:00.316803
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\184_Let us always meet each other with smile, for the smile is the beginning of love.png
+ImageCreation Completed in 0:00:00.265722
+0:00:00.265722
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\185_We shall never know all the good that a simple smile can do.png
+ImageCreation Completed in 0:00:00.260852
+0:00:00.260852
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\186_Peace begins with a smile.png
+ImageCreation Completed in 0:00:00.221872
+0:00:00.221872
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\187_We can do no great things, only small things with great love.png
+ImageCreation Completed in 0:00:00.262857
+0:00:00.262857
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\188_I cannot say whether things will get better if we change; what I can say is they must change if they are to get better.png
+ImageCreation Completed in 0:00:00.330789
+0:00:00.330789
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\189_I have an everyday religion that works for me. Love yourself first, and everything else falls into line.png
+ImageCreation Completed in 0:00:00.283851
+0:00:00.283851
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\190_Happiness cannot be travelled to, owned, earned, worn or consumed. Happiness is the spiritual experience of living every minute with love, grace and gratitude.png
+ImageCreation Completed in 0:00:00.356796
+0:00:00.356796
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\191_Our ability to achieve happiness and success depends on the strength of our wings.png
+ImageCreation Completed in 0:00:00.286839
+0:00:00.286839
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\192_True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.png
+ImageCreation Completed in 0:00:00.279820
+0:00:00.279820
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\193_If we look at the world with a love of life, the world will reveal its beauty to us.png
+ImageCreation Completed in 0:00:00.265856
+0:00:00.265856
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\194_If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.png
+ImageCreation Completed in 0:00:00.295842
+0:00:00.295842
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\195_Be a good listener. Your ears will never get you in trouble.png
+ImageCreation Completed in 0:00:00.251357
+0:00:00.251357
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\196_Your sacred space is where you can find yourself again and again.png
+ImageCreation Completed in 0:00:00.273843
+0:00:00.273843
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\197_Just as a flower, which seems beautiful has color but no perfume, so are the fruitless words of a man who speaks them but does them not.png
+ImageCreation Completed in 0:00:00.302814
+0:00:00.302814
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\198_Until you make peace with who you are, you'll never be content with what you have.png
+ImageCreation Completed in 0:00:00.270843
+0:00:00.270843
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\199_Forgiveness is choosing to love. It is the first skill of self-giving love.png
+ImageCreation Completed in 0:00:00.275855
+0:00:00.275855
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\200_When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.png
+ImageCreation Completed in 0:00:00.315820
+0:00:00.315820
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\201_Success is getting what you want. Happiness is wanting what you get.png
+ImageCreation Completed in 0:00:00.263849
+0:00:00.263849
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\202_Remember that failure is an event, not a person.png
+ImageCreation Completed in 0:00:00.241861
+0:00:00.241861
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\203_Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.png
+ImageCreation Completed in 0:00:00.346786
+0:00:00.346786
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\204_Neither genius, fame, nor love show the greatness of the soul. Only kindness can do that.png
+ImageCreation Completed in 0:00:00.275844
+0:00:00.275844
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\205_Failure doesn't mean you are a failure it just means you haven't succeeded yet.png
+ImageCreation Completed in 0:00:00.289851
+0:00:00.289851
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\206_It is never too late. Even if you are going to die tomorrow, keep yourself straight and clear and be a happy human being today.png
+ImageCreation Completed in 0:00:00.327793
+0:00:00.327793
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\207_Bodybuilding is much like any other sport. To be successful, you must dedicate yourself 100% to your training, diet and mental approach.png
+ImageCreation Completed in 0:00:00.328826
+0:00:00.328826
+Writing File to C:\RepoRoot\TechDevelopment\SocialAutomation\Image\208_Failure is not an option. Everyone has to succeed.png
+ImageCreation Completed in 0:00:00.248844
+0:00:00.248844
+Total Image creation of 209 images complete in 
+0:00:57.499585

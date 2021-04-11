@@ -2,14 +2,14 @@
     "Borders":[20,80,20,80],
     "size":[2000,2000],
     "logo":{
-        "alignX":"Middle",
+        "alignX":"Right",
         "alignY":"Bottom",
-        "size":60,
-        "path":"C:\\RepoRoot\\TechDevelopment\\SocialAutomation\\SloganMaker\\Logos\\TemplateLogo.pnsg"
+        "size":40,
+        "path":"C:\\RepoRoot\\TechDevelopment\\SocialAutomation\\SloganMaker\\Logos\\TemplateLogo.png"
         },
     "Debug":true,
     "Background":{
-        "Colour":[141,125,69],
+        "Colour":[66,64,64],
         "Type":"Colour"
         },
     "Font":{
@@ -22,7 +22,12 @@
         "Font":"gothamcondensed-bold",
         "Size":180
         },
+    "Author":{
+        "alignX":"Left",
+        "alignY":"Bottom",
+        "WidthPercent":60
+    },
     "Output":{
-        "path":"Images_FWA"
+        "path":"Images_template"
         }
 }
