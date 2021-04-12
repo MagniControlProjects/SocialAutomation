@@ -1,3 +1,24 @@
+'''
+Copyright 2021 George Linsdell
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this 
+software and associated documentation files (the "Software"), to deal in the Software 
+without restriction, including without limitation the rights to use, copy, modify, 
+merge, publish, distribute, sublicense, and/or sell copies of the Software, and to 
+permit persons to whom the Software is furnished to do so, subject to the following 
+conditions:
+
+The above copyright notice and this permission notice shall be included in all copies 
+or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE 
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
+OR OTHER DEALINGS IN THE SOFTWARE.
+'''
+
 import os
 import sys
 import json
@@ -94,8 +115,16 @@ class ContentBot():
             for FilterText in FilterContent["Include"]:
                 ExtendedFiltering = [
                     f"{FilterText}",
+                    f" {FilterText} ",
+                    f"{FilterText} ",
+                    f" {FilterText}",
                     f"{FilterText}.",#Statement
                     f"{FilterText}?",#Question
+                    f"{FilterText}s",
+                    f"{FilterText}es",
+                    f"{FilterText}sed",
+                    f"{FilterText}sies",
+                    f"{FilterText}ses",
                     f"{FilterText.replace(' ','. ')}",#poor grammar
                     f"{FilterText.replace('.',',')}",#Commas not full stop.
                     f"{FilterText.replace('.',':')}",#Colon not full stop.
@@ -118,7 +147,6 @@ class ContentBot():
             self.Content = {}
             for RecordID in range(len(self.backContent)):
                 self.Content[RecordID] = self.backContent[RecordID]
-                
                     
         if type(self.Content) == type({}):
             for PostID,PostContent in self.Content.items():
