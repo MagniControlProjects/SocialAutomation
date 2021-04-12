@@ -102,6 +102,7 @@ def main(args):
             ConfigurationFile=DEFAULT_CONFIGURATION_FILE,
             FontFolder=DEFAULT_FONTS_FOLDER,
             )#QuoteFile=DEFAULT_QUOTE_FILE)
+        print("Loading from file %s"%inputfile)
         if os.path.splitext(inputfile)[1] == ".csv":
             with open (inputfile,"r") as csvfile:
                 spamreader = csv.reader(
